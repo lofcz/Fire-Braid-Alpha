@@ -1,5 +1,5 @@
-# Fire-Braid-Alpha
-Místo pro report bugů pro alpha verzi
+# Fire Braid [alpha]
+Místo pro report bugů alpha verze hry.
 
 ## Velmi stručně k ovládání:
 w, a, d = chůze + skok

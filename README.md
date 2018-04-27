@@ -12,7 +12,7 @@ v = aktivuje mód s efekty, o kterých není jasné, jestli se dostanou do výsl
 
 ## Managment:
 - Standa: designuje hru, dělá grafiku
-- Matěj: programuje, může za všechno co nefunugje
+- Matěj: programuje, může za všechno co nefunguje
 
 ## Jak nahlásit chybu?
 

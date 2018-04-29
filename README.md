@@ -2,9 +2,10 @@
 Místo pro report bugů alpha verze hry.
 
 ## Velmi stručně k ovládání:
-w, a, d = chůze + skok
-h = vývojářský panel (AIDE)
-v = aktivuje mód s efekty, o kterých není jasné, jestli se dostanou do výsledné hry (podle mě to vypadá líp)
+w, a, d = chůze + skok  
+h = vývojářský panel (AIDE)  
+v = aktivuje mód s efekty, o kterých není jasné, jestli se dostanou do výsledné hry (podle mě to vypadá líp)  
+n = restartuje místnost
 
 ## Známé problémy, které zatím neřešíme:
 - Audio (to prostě ještě není, i když tam něco hraje, doporočuju ztlumit)

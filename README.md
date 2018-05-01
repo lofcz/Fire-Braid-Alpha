@@ -5,8 +5,8 @@ Místo pro report bugů alpha verze hry.
 w, a, d = chůze + skok  
 h = vývojářský panel (AIDE)  
 v = aktivuje mód s efekty, o kterých není jasné, jestli se dostanou do výsledné hry (podle mě to vypadá líp)  
-n = restartuje místnost
-m = návrat do debuggeru úrovní
+n = restartuje místnost  
+m = návrat do debuggeru úrovní  
 
 ## Známé problémy, které zatím neřešíme:
 - Audio (to prostě ještě není, i když tam něco hraje, doporočuju ztlumit)

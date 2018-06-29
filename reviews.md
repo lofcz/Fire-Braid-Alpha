@@ -1,4 +1,4 @@
-[1]
+[1]  
 Tak jsem to prošel. Dojmy jsou takové: skákání s rozběhem mi nevyhovuje, víc by se mi líbilo vzít powerup a skákat výš pořád, ale chápu to.
 Skákání ze šneka chodí hrozně pomalu do stran. Když šneka zabiju, tak už často nemám šanci se dostat tam, kam bych se odpinknul od něj a odpinkávat se nechci protože je to nebezpečný a špatně to chodí do stran. 
 Potom počet mincí se neresetuje se smrtí ve stejném levelu - to nemusí být na škodu ale pokud to bude přidávat životy, tak je potřeba na to myslet, protože se může stát, 
